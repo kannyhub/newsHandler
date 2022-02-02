@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "express": "^4.17.2",
-    "express-handlebars": "^6.0.2"
+    "express-handlebars": "^6.0.2",
+    "newsapi": "^2.4.1"
   }
 }
